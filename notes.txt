@@ -1,0 +1,35 @@
+Talk -> most important headlines
+
+g@gayle.com subject = 'fbprep'
+
+1 - Listen [for clues]
+2 - Draw an example
+3 - Brute force/ naive
+4 - Optimizing :: BUD, space/time, DYI
+5 - Don't code right away || Walk through 
+6 - code
+7 - test [analyze your code](short test case)
+    *check for silly things, off by one error
+    *check lines that more likely to cause problems
+    *small test case first, edge cases second, then bigger test cases. 
+    *when find bug, don't try to fix it with whatever you first think off.
+
+Code : far left of board
+Example|pseudo code etc : right side of the board.
+
+
+BUD: 
+
+- given two arrays find all elemens in common. (sorted and distinct)
+[-10,5,19,35,46,47,55] and [8,19,30,34,35,37,47,59]
+- anagram of a word (if a server its involved you may have a database, could do queries et.) .... can sort the words in a dictionary, then sort the given word and find in dictionary. 
+
+- find the celebritity. (a person that everbody knows, but the person doesn't know anyone in the group) 
+with each check eliminate someone. 
+the one not eliminated gets checked against in the next iteration
+
+
+- find biggest, smallest of something : 
+
+- permutation problem. find all permutations of a string in another string
+- 
